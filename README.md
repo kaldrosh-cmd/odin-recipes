@@ -12,17 +12,3 @@ The website includes the following recipes:
 ## 🛠️ Technologies Used
 
 * **HTML5** – For page structure and content.
-
-## 🚀 How to Run the Project Locally
-
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com
-   ```
-2. Navigate into the project directory:
-   ```bash
-   cd recipes
-   ```
-3. Open the `index.html` file in any web browser.
-
----
