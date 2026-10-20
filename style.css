@@ -1,0 +1,45 @@
+body {
+    background-color: bisque;
+    font-family: "Open Sans",sans-serif;
+    font-size: 16px;
+    display: flex;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+
+}
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: goldenrod;
+}
+.foods {
+    max-width: 100%;
+    height: auto;
+    margin-top: 15px;
+    border-radius: 4px;
+}
+.card {
+    display: flex;
+    padding: 50px 40px;
+    max-width: 600px;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 100%;
+    border-radius: 8px;
+    background-color: aliceblue;
+
+}
+.list {
+    text-align: left;
+}
+a {
+    color: goldenrod;
+    font-weight: bold;
+}
